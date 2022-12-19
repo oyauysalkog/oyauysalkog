@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oyauysalkog
+- 👋 Hi, I’m Oya @oyauysalkog
 - 👀 I’m interested in Data Science World !
 - 🌱 I’m currently learning Intelligent Agents 
 - 📫 You can reach me via oyauysalkog@gmail.com 
